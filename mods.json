@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "example-mod",
+    "name": "Example Mod",
+    "description": "A template showing how to write a trusted mod.",
+    "author": "eggvr-png",
+    "version": "1.0.0",
+    "pages": [],
+    "url": "https://raw.githubusercontent.com/eggvr-png/trusted-mods-bliish/main/mods/example-mod.js"
+  }
+]
