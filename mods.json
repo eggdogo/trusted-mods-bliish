@@ -7,5 +7,14 @@
     "version": "1.0.0",
     "pages": [],
     "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/post-timestamps.js"
+  },
+  {
+    "id": "compact-mode",
+    "name": "Compact Mode",
+    "description": "tightens up spacing and padding for a denser feed",
+    "author": "egg",
+    "version": "1.0.0",
+    "pages": [],
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/compact-mode.js"
   }
 ]
