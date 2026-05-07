@@ -16,5 +16,15 @@
     "version": "1.1.0",
     "pages": [],
     "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/compact-mode.js"
+  },
+  {
+    "id": "char-counter",
+    "name": "post char counter",
+    "description": "shows remaining characters because this isnt a feature for some reason",
+    "author": "egg",
+    "version": "1.0.0",
+    "pages": [],
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/char-counter.js"
   }
+
 ]
