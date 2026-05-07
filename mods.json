@@ -26,4 +26,13 @@
     "pages": [],
     "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/char-counter.js"
   }
+  {
+    "id": "screw-notifs",
+    "name": "screw-notifs",
+    "description": "auto marks all notifications when you click on the notifs tab",
+    "author": "egg",
+    "version": "1.0.0",
+    "pages": [],
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/screw-notifs.js"
+  }
 ]
