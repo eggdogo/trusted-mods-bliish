@@ -1,2 +1,11 @@
-]
+[
+  {
+    "id": "unlock-social-links",
+    "name": "unlock links",
+    "description": "lets you pin any link to your profile header, not just the approved ones",
+    "author": "egg",
+    "version": "1.0.0",
+    "pages": ["/profile/edit"],
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/unlock-social-links.js"
+  }
 ]
