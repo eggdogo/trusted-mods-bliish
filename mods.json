@@ -2,7 +2,7 @@
   {
     "id": "unlock-social-links",
     "name": "unlock links",
-    "description": "lets you pin any link to your profile header, not just the approved ones",
+    "description": "lets you put any link in the social links section of your profile",
     "author": "egg",
     "version": "1.0.0",
     "pages": ["/profile/edit"],
