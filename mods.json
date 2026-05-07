@@ -1,0 +1,11 @@
+[
+  {
+    "id": "post-timestamps",
+    "name": "post timestamps",
+    "description": "shows exact date and time on posts instead of '3 minutes ago'",
+    "author": "egg",
+    "version": "1.0.0",
+    "pages": [],
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/post-timestamps.js"
+  }
+]
