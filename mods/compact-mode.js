@@ -5,36 +5,38 @@
   const style = document.createElement("style");
   style.id = id;
   style.textContent = `
-    /* tighten up feed posts */
-    [data-timeline-item-id] {
-      padding-top: 8px !important;
-      padding-bottom: 8px !important;
-    }
-
-    /* smaller gap between post elements */
-    .post-body, .post-content {
-      gap: 4px !important;
-    }
-
-    /* compress the composer */
-    .feed-composer, .post-composer {
-      padding: 8px !important;
-    }
-
-    /* tighter comments */
-    .comment {
+    /* tighten feed post cards */
+    [data-timeline-item-id] > * {
       padding-top: 6px !important;
       padding-bottom: 6px !important;
     }
 
-    /* reduce section bar height */
+    /* tighter action rows (like/comment buttons) */
+    .post-actions, .post-footer {
+      padding-top: 4px !important;
+      padding-bottom: 4px !important;
+    }
+
+    /* reduce gap between posts */
+    .app-content > * + * {
+      margin-top: 4px !important;
+    }
+
+    /* shrink section bars */
     .section-bar {
+      padding-top: 5px !important;
+      padding-bottom: 5px !important;
+      font-size: 0.85em !important;
+    }
+
+    /* tighter settings rows */
+    .settings-row {
       padding-top: 6px !important;
       padding-bottom: 6px !important;
     }
 
-    /* shrink profile header padding */
-    .app-header-row {
+    /* smaller profile edit fields */
+    .profile-edit-field {
       padding-top: 6px !important;
       padding-bottom: 6px !important;
     }
