@@ -10,7 +10,7 @@
   },
   {
     "id": "compact-mode",
-    "name": "Compact Mode",
+    "name": "compact Mode",
     "description": "tightens up spacing and padding for a denser feed",
     "author": "egg",
     "version": "1.0.0",
