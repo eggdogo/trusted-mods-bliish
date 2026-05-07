@@ -6,6 +6,6 @@
     "author": "egg",
     "version": "1.0.0",
     "pages": ["/profile/edit"],
-    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/main/mods/unlock-social-links.js"
+    "url": "https://raw.githubusercontent.com/eggdogo/trusted-mods-bliish/refs/heads/main/mods/links.js"
   }
 ]
