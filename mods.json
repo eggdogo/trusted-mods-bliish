@@ -20,7 +20,7 @@
   {
     "id": "char-counter",
     "name": "post char counter",
-    "description": "shows remaining characters because this isnt a feature for some reason",
+    "description": "shows remaining characters because this isnt a feature for some reason (bit bugged for mod accounts, srry lol)",
     "author": "egg",
     "version": "1.0.0",
     "pages": [],
